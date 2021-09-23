@@ -54,3 +54,19 @@ th{
 tr:nth-child(even) {
     background-color: blueviolet;
   }
+.MRSALLONBY:hover{
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 2px solid;
+}
+.LADYSTUTFIELD:hover{
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 2px solid;
+}
+.LADYHUNSTANTON:hover{
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 2px solid;
+}
+.LADYCAROLINE:hover{
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 2px solid;
+}
