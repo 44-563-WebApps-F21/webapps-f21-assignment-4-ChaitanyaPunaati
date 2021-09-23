@@ -39,3 +39,18 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color : brown;
 }
+table, th, td {
+	border: 2px black solid;
+    width: 30px;
+    text-align: center;
+    padding: 3px;
+    margin: 25px;
+    color : black;
+    background-color: navajowhite;
+}
+th{
+    height: 40px;
+}
+tr:nth-child(even) {
+    background-color: blueviolet;
+  }
