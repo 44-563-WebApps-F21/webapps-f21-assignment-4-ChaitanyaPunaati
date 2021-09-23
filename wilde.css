@@ -6,14 +6,14 @@
 }
 .stagedirection
 {
-    background-color: lightgreen;
+    background-color: orange;
     font-family: cursive;
     color : black;
 }
 .stagedirection:hover 
 {
     background-color: black;
-    color : red ;
+    color : white ;
 }
 .MRSALLONBY
 {
